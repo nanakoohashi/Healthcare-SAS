@@ -13,3 +13,5 @@ The dataset contains estimates on payments for different medical procedures and 
 (Question1)
 ### A visual representation of payment amounts for hip/knee replacement patients in the state of Texas
 (Question2)
+### Discarding all providers who are “not available” or where “number of cases are too small”, a frequency distribution of the payment category broken down by Payment measure
+(Question3) 
