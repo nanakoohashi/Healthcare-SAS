@@ -9,4 +9,7 @@ The dataset contains estimates on payments for different medical procedures and 
 2. Baptist Health Medical Center-CONWA
 3. Conway Regional Health System
 4. Chi St. Vincent Hospital Hot Spring
-5. Chambers Memorial Hospital
+5. Chambers Memorial Hospital  
+(Question1)
+### A visual representation of payment amounts for hip/knee replacement patients in the state of Texas
+(Question2)
